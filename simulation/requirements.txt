@@ -1,0 +1,2 @@
+# Only needed on OUTSTATION. Pin after capturing its pip freeze.
+pandapower

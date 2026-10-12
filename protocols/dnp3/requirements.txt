@@ -1,0 +1,3 @@
+# Baseline observed: dnp3-python (VOLTTRON wrapper) on Python 3.10.16.
+# TODO: replace with verified == version from BOTH running VMs before reproducibility sign-off.
+dnp3-python
